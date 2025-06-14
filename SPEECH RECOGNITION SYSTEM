@@ -1,0 +1,9 @@
+datasets
+|- _background_noise_
+|- custom_keywords
+|--- digi-key
+|--- hadouken
+|- data_speech_commands_v0.02
+|--- backward
+|--- bed
+|--- ...
